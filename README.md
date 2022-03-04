@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaiTuyen
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and C++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100009223951433/
 
