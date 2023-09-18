@@ -29,6 +29,6 @@ You can find more of my projects in the [Repositories tab](https://github.com/Yo
 
 ## My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaiTuyen&show_icons=true&theme=dark)
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or discuss DevOps and Cloud Architecture topics! 😄
